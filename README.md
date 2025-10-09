@@ -1,4 +1,4 @@
-![balta-desafio-caca-aos-bugs-2025](https://github.com/user-attachments/assets/070aa9e6-5b08-4d26-b770-4beda578c18f)
+![github-repository-share](https://github.com/user-attachments/assets/91520b84-9d38-41bf-805c-030007880327)
 
 ## 👋 Bem-vindo(a) ao meu repositório do desafio Caça aos Bugs 2025!
 
