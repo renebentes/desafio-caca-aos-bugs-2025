@@ -17,5 +17,11 @@ O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias
 * ✅ Banco de Dados
 
 ### Recompensas
+<img width="737" height="892" alt="recompensas" src="https://github.com/user-attachments/assets/1bb39874-2444-4478-adab-99d935339b56" />
+
 
 ### Minhas Recompensas
+[Incluir recompensas que você recebeu]
+
+### Meus Projetos
+[Incluir lista de projetos do desafio]
