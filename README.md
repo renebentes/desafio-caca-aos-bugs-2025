@@ -17,7 +17,7 @@ O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias
 * ✅ Banco de Dados
 
 ### Recompensas
-* [https://github.com/balta-io/balta-io-balta-desafio-caca-aos-bugs-2025_1-spore](01 - Spore)
+* [01 - Spore](https://github.com/balta-io/balta-io-balta-desafio-caca-aos-bugs-2025_1-spore)
 * [02 - Baby Demo Dog](https://github.com/balta-io/balta-desafio-caca-aos-bugs-2025_2-baby-demo-dog)
 * [03 - Spider Monster](https://github.com/balta-io/balta-desafio-caca-aos-bugs-2025_3-spider-monster)
 * [04 - Demo Bat](https://github.com/balta-io/balta-desafio-caca-aos-bugs-2025_4-demo-bat)
