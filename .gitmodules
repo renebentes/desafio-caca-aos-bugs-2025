@@ -1,0 +1,3 @@
+[submodule "bugs/spore"]
+	path = bugs/spore
+	url = https://github.com/renebentes/desafio-caca-aos-bugs-2025-spore
