@@ -34,8 +34,11 @@ O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias
 
 ### Minhas Recompensas
 
-![Desafio 01 - Spore](https://baltaio.blob.core.windows.net/static/images/v4/challenges/caca-aos-bugs-2025/rewards/spore/image.png)
+| | |
+|-|-|
+|![Desafio 01 - Spore](https://baltaio.blob.core.windows.net/static/images/v4/challenges/caca-aos-bugs-2025/rewards/spore/image.png)|![Desafio 02 - Baby Demo Dog](https://baltaio.blob.core.windows.net/static/images/v4/challenges/caca-aos-bugs-2025/rewards/baby-demo-dog/image.png)|
 
 ### Meus Projetos
 
 - [Desafio 01 - Spore](https://github.com/renebentes/desafio-caca-aos-bugs-2025-spore)
+- [Desafio 02 - Baby Demo Dog](https://github.com/renebentes/desafio-caca-aos-bugs-2025-baby-demo-dog)

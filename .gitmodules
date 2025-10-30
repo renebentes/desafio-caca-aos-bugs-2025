@@ -1,3 +1,6 @@
 [submodule "bugs/spore"]
 	path = bugs/spore
 	url = https://github.com/renebentes/desafio-caca-aos-bugs-2025-spore
+[submodule "bugs/baby-demo-dog"]
+	path = bugs/baby-demo-dog
+	url = https://github.com/renebentes/desafio-caca-aos-bugs-2025-baby-demo-dog
