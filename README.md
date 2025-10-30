@@ -42,3 +42,4 @@ O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias
 
 - [Desafio 01 - Spore](https://github.com/renebentes/desafio-caca-aos-bugs-2025-spore)
 - [Desafio 02 - Baby Demo Dog](https://github.com/renebentes/desafio-caca-aos-bugs-2025-baby-demo-dog)
+- [Desafio 03 - Baby Demo Dog](https://github.com/renebentes/desafio-caca-aos-bugs-2025-spider-monster)

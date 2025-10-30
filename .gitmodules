@@ -4,3 +4,6 @@
 [submodule "bugs/baby-demo-dog"]
 	path = bugs/baby-demo-dog
 	url = https://github.com/renebentes/desafio-caca-aos-bugs-2025-baby-demo-dog
+[submodule "bugs/spider-monster"]
+	path = bugs/spider-monster
+	url = https://github.com/renebentes/desafio-caca-aos-bugs-2025-spider-monster
